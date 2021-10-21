@@ -1,0 +1,34 @@
+* {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.N800 {
+  color: #172B4;
+}
+
+.titloe {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 15;
+}
+
+content {
+  display: flex;
+  width: 380px;
+  background-color: white;
+  height: 100vh;
+}
+
+body {
+  background-color: red;
+  display: flex;
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
